@@ -1,2 +1,2 @@
-# Sistemas-de-registros-de-alunos-e-funcion-rios-
+# Sistemas-de-registros
 Projeto de curso de TI da Ebac
